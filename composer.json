@@ -1,5 +1,5 @@
 {
-    "name": "xie1776/benCommon",
+    "name": "xie1776/ben-common",
     "description": "Third party message push",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "xie1776\\benCommon\\": "src/"
+            "xie1776\\ben-common\\": "src/"
         }
     }
 }
